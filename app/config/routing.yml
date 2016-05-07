@@ -1,3 +1,7 @@
+restaurant_user:
+    resource: "@RestaurantUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
