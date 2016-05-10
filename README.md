@@ -1,4 +1,4 @@
-restaurant_project
-==================
+restaurant
+==========
 
-A Symfony project created on May 7, 2016, 7:37 pm.
+A Symfony project created on May 10, 2016, 3:52 pm.
